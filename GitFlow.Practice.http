@@ -1,0 +1,6 @@
+@GitFlow.Practice_HostAddress = http://localhost:5197
+
+GET {{GitFlow.Practice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
