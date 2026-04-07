@@ -5,9 +5,5 @@ namespace GitFlow.Practice.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class TestController : ControllerBase
-    {
-
-        //123
-    }
+    public class TestController : ControllerBase { }
 }
